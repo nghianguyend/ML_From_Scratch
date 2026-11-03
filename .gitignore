@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# ML outputs and large datasets
+data/raw/
+models/
+checkpoints/
+*.pkl
+*.joblib
+
+# VS Code local settings
+.vscode/

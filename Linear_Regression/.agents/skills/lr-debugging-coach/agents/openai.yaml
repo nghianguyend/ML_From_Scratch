@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debugging Coach"
+  short_description: "Find causes and verify your own corrections"
+  default_prompt: "Use $lr-debugging-coach to guide my next learning step."

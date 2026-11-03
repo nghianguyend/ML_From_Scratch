@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mathematical Code Reviewer"
+  short_description: "Review shapes, equations, stability, and tests"
+  default_prompt: "Use $lr-code-reviewer to guide my next learning step."
