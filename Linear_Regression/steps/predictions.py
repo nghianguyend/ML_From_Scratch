@@ -8,6 +8,5 @@ x = np.array([1.0, 2.0, 3.0])
 w = 2.0
 b = 1.0
 
-predictions = predict(w, x, b)
-print(predictions)
-print(predictions.shape)
+y_pred = np.array([3.0, 5.0, 7.0])
+y_true = np.array([2.0, 5.0, 8.0])
