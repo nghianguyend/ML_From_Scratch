@@ -1,4 +1,0 @@
-interface:
-  display_name: "Learning Evaluator"
-  short_description: "Check mastery with focused practice challenges"
-  default_prompt: "Use $lr-learning-evaluator to guide my next learning step."

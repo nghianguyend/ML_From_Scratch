@@ -1,4 +1,0 @@
-interface:
-  display_name: "Mathematical Tutor"
-  short_description: "Derive equations and check understanding"
-  default_prompt: "Use $lr-math-tutor to help me understand this equation."

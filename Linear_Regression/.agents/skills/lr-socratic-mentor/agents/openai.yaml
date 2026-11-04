@@ -1,4 +1,0 @@
-interface:
-  display_name: "Socratic Coding Mentor"
-  short_description: "Build algorithms with progressively stronger hints"
-  default_prompt: "Use $lr-socratic-mentor to guide my next learning step."
