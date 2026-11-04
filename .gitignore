@@ -21,3 +21,6 @@ checkpoints/
 
 # VS Code local settings
 .vscode/
+
+# Local agent skills
+**/.agents/skills/
