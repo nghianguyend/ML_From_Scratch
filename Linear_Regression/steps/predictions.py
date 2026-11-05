@@ -1,7 +1,7 @@
 import numpy as np
 
-def predict(w, x, b) :
-    y = w * x + b
+def predict(W, X, b) :
+    y = W * X + b
     return y
 
 x = np.array([1.0, 2.0, 3.0])
