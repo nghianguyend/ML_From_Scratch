@@ -24,3 +24,5 @@ checkpoints/
 
 # Local agent skills
 **/.agents/skills/
+AGENTS.md
+AGENTS.pdf

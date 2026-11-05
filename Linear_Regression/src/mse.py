@@ -1,8 +1,11 @@
 import numpy as np
 
 def mse(y_true, y_pred) :
+
+    # Calculate the residuals
     r = y_true - y_pred
     r_squared = r ** 2
+    
     return r_squared.mean()
 
 

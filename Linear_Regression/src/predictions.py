@@ -2,8 +2,10 @@ import numpy as np
 
 
 def predict(W, X, b) :
+
     # Calculate y_hat
     y_hat = W * X + b
+    
     return y_hat
 
 x = np.array([1.0, 2.0, 3.0])
